@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qc89r0fld/J7EXnDDN2zk6ToS9m6bBQcME9DSc16mX+Y/im49VioPrUYjzn7dSnnpsncjfn2edniDaxdHTpn3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaon\\source\\repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaon\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\joaon\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\joaon\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\joaon\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\joaon\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\joaon\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\joaon\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
