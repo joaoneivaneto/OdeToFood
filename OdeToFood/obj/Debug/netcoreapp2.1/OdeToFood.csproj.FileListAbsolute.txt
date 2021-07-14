@@ -39,3 +39,4 @@ C:\Users\joaon\source\repos\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFoo
 C:\Users\joaon\source\repos\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
 C:\Users\joaon\source\repos\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
 C:\Users\joaon\source\repos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Details.cshtml.g.cs
+C:\Users\joaon\source\repos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs

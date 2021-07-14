@@ -53,7 +53,7 @@ using OdeToFood;
             WriteLiteral("<h1>Restaurants</h1>\r\n");
             EndContext();
             BeginContext(82, 415, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7ebe3f49cecb4d99bde78b8ee77a38d8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "53ccabf3a4b94207874194661cc92362", async() => {
                 BeginContext(102, 388, true);
                 WriteLiteral(@"
     <div class=""form-group"">
@@ -127,7 +127,7 @@ using OdeToFood;
             WriteLiteral("</td>\r\n        <td>\r\n            ");
             EndContext();
             BeginContext(729, 162, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2f7ad7ad259d42beb2e4be509b0259e2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "62238ff75d22445eb153814586680ec6", async() => {
                 BeginContext(812, 75, true);
                 WriteLiteral("\r\n                <i class=\"glyphicon glyphicon-zoom-in\"></i>\r\n            ");
                 EndContext();
