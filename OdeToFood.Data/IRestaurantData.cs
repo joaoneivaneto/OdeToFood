@@ -8,7 +8,7 @@ namespace OdeToFood.Data
 {
     public interface IRestaurantData
     {
-        IEnumerable<Restaurant> GetAll();
+        IEnumerable<Restaurant> GetRestaurantsByName(string name);
     }
     public class InMemoryRestaurantData: IRestaurantData
     {
@@ -17,13 +17,18 @@ namespace OdeToFood.Data
         {
             restaurants = new List<Restaurant>()
             {
-                new Restaurant{Id=1, Name="dogao", Location="Av. Das Rosas", cuisine= CuisineType.Brasilian }
+                new Restaurant{Id=1, Name="dogao", Location="Av. Das Rosas", cuisine= CuisineType.Brasilian },
+                new Restaurant{Id=2, Name="rei do espeto", Location="Praça do Forúm", cuisine= CuisineType.Brasilian },
+                new Restaurant{Id=3, Name="bar do giga", Location="Cruzinha", cuisine= CuisineType.Brasilian },
+                new Restaurant{Id=4, Name="bar do peixe", Location="Rodovia", cuisine= CuisineType.Idian }
             };
 
         }
-        public IEnumerable<Restaurant> GetAll()
+        public IEnumerable<Restaurant> GetRestaurantsByName( string name = null)
         {
-            return from r in restaurants orderby r.Name select r;
+            return from r in restaurants 
+                   where string.IsNullOrEmpty(name) || r.Name.StartsWith(name)
+                   orderby r.Name select r;
         }
     }
 }
