@@ -54,7 +54,7 @@ using OdeToFood;
             WriteLiteral("<h1>Restaurants</h1>\r\n");
             EndContext();
             BeginContext(82, 415, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a8897059d7c54796a302f533723b2d45", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6806f2d91f2f4c05ae3b8ebeec5396ea", async() => {
                 BeginContext(102, 388, true);
                 WriteLiteral(@"
     <div class=""form-group"">
@@ -128,7 +128,7 @@ using OdeToFood;
             WriteLiteral("</td>\r\n        <td>\r\n            ");
             EndContext();
             BeginContext(729, 162, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "205b13e1b443439d9e40399692c6e659", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "583f1ee50b7c4ca88ea4ebb387ea4abd", async() => {
                 BeginContext(812, 75, true);
                 WriteLiteral("\r\n                <i class=\"glyphicon glyphicon-zoom-in\"></i>\r\n            ");
                 EndContext();
@@ -164,7 +164,7 @@ using OdeToFood;
             WriteLiteral("\r\n            ");
             EndContext();
             BeginContext(905, 156, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "794f2ef88f9c4fbe851b47e5cf3299dc", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5216adb3c7a047858c354471b3d7dee0", async() => {
                 BeginContext(985, 72, true);
                 WriteLiteral("\r\n                <i class=\"glyphicon glyphicon-edit\"></i>\r\n            ");
                 EndContext();
