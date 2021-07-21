@@ -61,7 +61,7 @@ using OdeToFood;
             WriteLiteral("<h1>Restaurants</h1>\r\n");
             EndContext();
             BeginContext(122, 415, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3ef340d993104b7a8b56d94cd8c6f141", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "77a2dd16f18a4fe5971b54ddf775d860", async() => {
                 BeginContext(142, 388, true);
                 WriteLiteral(@"
     <div class=""form-group"">
@@ -105,7 +105,7 @@ using OdeToFood;
             WriteLiteral("                ");
             EndContext();
             BeginContext(617, 46, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "3bb3f8f1abf247008c48f8958720872a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "deb783fbf87443f5bc0f98d15f6028bf", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
@@ -135,7 +135,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper.Model = restaurant;
 #line default
 #line hidden
             BeginContext(680, 57, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d1ba692b6cbe4acd981daef345d275a2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "63295b182ae24490b472169601b2d3d8", async() => {
                 BeginContext(726, 7, true);
                 WriteLiteral("Add New");
                 EndContext();
