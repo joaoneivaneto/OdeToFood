@@ -190,6 +190,10 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "OdeToCode.UseNodeModules": {
+              "target": "Package",
+              "version": "[1.0.6, )"
             }
           },
           "imports": [
