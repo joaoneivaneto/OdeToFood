@@ -124,7 +124,7 @@ Write(Model.Restaurant.Name);
 #line default
 #line hidden
             BeginContext(435, 64, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b806f8aed02849e5adb0033101241a88", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9b4df43b05cd4f34a471bdc4e151c557", async() => {
                 BeginContext(480, 15, true);
                 WriteLiteral("All Restaurants");
                 EndContext();
