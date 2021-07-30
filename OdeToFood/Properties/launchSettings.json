@@ -1,24 +1,26 @@
-﻿{
+{
   "iisSettings": {
-    "windowsAuthentication": false, 
-    "anonymousAuthentication": true, 
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:30142",
-      "sslPort": 44344
+      "applicationUrl": "http://localhost:54345/",
+      "sslPort": 44313
     }
   },
   "profiles": {
-    "IIS Express": {
+    "OdeToFood": {
       "commandName": "IISExpress",
-      "launchBrowser": true,
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "Key": "Value"
       }
     },
-    "OdeToFood": {
-      "commandName": "Project",
+    "WSL 2": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "llS Express": {
+      "commandName": "IISExpress",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:5001;http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

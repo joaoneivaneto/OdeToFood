@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using OdeToFood.Data;
+using OdeToFoodDbConetxt.Data;
 
-namespace OdeToFood.Data.Migrations
+namespace OdeToFoodDbConetxt.Data.Migrations
 {
     [DbContext(typeof(OdeToFoodDbContext))]
     partial class OdeToFoodDbContextModelSnapshot : ModelSnapshot

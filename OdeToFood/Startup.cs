@@ -33,6 +33,7 @@ namespace OdeToFood
                 }
             );
             services.AddScoped<IRestaurantData, SqlRestaurantData>();
+            //services.AddScoped<IRestaurantData, InMemoryRestaurantData>();
             services.Configure<CookiePolicyOptions>(options =>
             {
                 // This lambda determines whether user consent for non-essential cookies is needed for a given request.

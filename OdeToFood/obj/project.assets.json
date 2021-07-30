@@ -11940,6 +11940,7 @@
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
+      "Microsoft.Extensions.Hosting >= 2.1.1",
       "Microsoft.NETCore.App >= 2.1.0",
       "OdeToCode.UseNodeModules >= 1.0.6",
       "OdeToFood.Data >= 1.0.0"
@@ -11998,6 +11999,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.2, )"
+          },
+          "Microsoft.Extensions.Hosting": {
+            "target": "Package",
+            "version": "[2.1.1, )"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",

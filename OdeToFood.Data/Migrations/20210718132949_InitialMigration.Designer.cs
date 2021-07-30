@@ -4,9 +4,9 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using OdeToFood.Data;
+using OdeToFoodDbConetxt.Data;
 
-namespace OdeToFood.Data.Migrations
+namespace OdeToFoodDbConetxt.Data.Migrations
 {
     [DbContext(typeof(OdeToFoodDbContext))]
     [Migration("20210718132949_InitialMigration")]
